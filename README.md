@@ -1,2 +1,2 @@
-# co_coder_sneha_megha
+# Dear Diary
 diary app
