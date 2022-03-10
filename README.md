@@ -1,2 +1,0 @@
-# Dear Diary
-diary app
