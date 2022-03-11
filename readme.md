@@ -21,7 +21,7 @@ I can't stomach any more survival horror</p>
 
 ## Link to product walkthrough:
  
-
+https://www.loom.com/share/3e0dffc28e3f4b5187f741a8e01c1118
  
 ## Libraries used:
  
