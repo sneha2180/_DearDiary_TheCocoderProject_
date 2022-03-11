@@ -130,8 +130,6 @@ $ Tessa.py
  </tr>
 </table>
 
-<p align="center">
-<img src="personalassistant.gif"/>
 <br/><br/>
 🌟 Star this repository if you find it useful.
 </p>
