@@ -26,46 +26,25 @@
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <a href="#">Add new entry</a>
+                        <a href="{% url 'add'%}">Add new entry</a>
                     </div>
                 </div>
             </article>
+
+            {% for entry in entries %}
 
             <article class="media">
                 <div class="media-content">
                     <div class="content">
                         <p>
-                            <strong>January 28, 1985 6:14 AM</strong>
-                            <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque
-                            tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                            <strong>{{entry.date_posted}}</strong>
+                            <br>{{entry.text}}
                         </p>
                     </div>
                 </div>
             </article>
 
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p>
-                            <strong>January 28, 1985 6:14 AM</strong>
-                            <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque
-                            tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-                        </p>
-                    </div>
-                </div>
-            </article>
-
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p>
-                            <strong>January 28, 1985 6:14 AM</strong>
-                            <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque
-                            tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-                        </p>
-                    </div>
-                </div>
-            </article>
+            {% endfor %}
 
         </div>
 
