@@ -2,8 +2,15 @@
 <p align="center">
  <img width="400px" src="assets/Logo.png"/>
 </p>
-<span style="font-family: 'Lucida Console';">Introducing our all new personal assistant Tessa.....</span>
-<p>An intelligent virtual assistant (IVA) or intelligent personal assistant (IPA) is a software agent that can perform tasks or services for an individual based on commands or questions. The term "chatbot" is sometimes used to refer to virtual assistants generally or specifically accessed by online chat. In some cases, online chat programs are exclusively for entertainment purposes. Some virtual assistants are able to interpret human speech and respond via synthesized voices. Users can ask their assistant questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, and calendars with verbal (spoken?) commands. A similar concept, however with differences, lays under the dialogue systems.</p>
+<p align="center">Dear diary,The sky is falling<br>
+It's fucking boring<br>
+I'm going braindead, isolated<br>
+God is a shithead<br>
+And we're his rejects<br>
+Traumatized for breakfast<br>
+I can't stomach any more survival horror</p>
+<br>
+<p align="center">We are gifting you a personal diary 'Dear Diary ' . You can write down your emotions whenever you feel to .......</p>
 
  ***We are very thankful for giving us this opportunity so we could really use our brains on the project. This project helped us to understand some core concepts and workflows on creating a personal diary using Python. We learned how to take notes from users and save it in different databases. We got to know about several modules in Python which were used for certain needs in the project. Overall it was a great learning experience.***
  
