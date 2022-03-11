@@ -46,23 +46,44 @@ I can't stomach any more survival horror</p>
 $ sudo apt-get install python3-pip
 ```
 
-**2.** Clone this repository to your local drive
+**2.** Installing django
 
 ```shell
-$ git clone https://github.com/anushajoseph/SheHacks-Project1-Personalassistant-Tessa
+$ python -m pip install Django
 ```
 
-**3.** Install dependencies
+**3.** Clone this repository to your local drive
 
 ```shell
-$ pip3 install -r requirements.txt
+$ git clone https://github.com/sneha2180/_DearDiary_TheCocoderProject_.git
 ```
 
-**4.** Open Terminal and Run 
+**4.** Move to the directory
 
 ```shell
-$ Tessa.py
+$ cd dear_diary/
 ```
+
+**5.** Sign Up [Creating user]
+
+```shell
+$ winpty python manage.py createsuperuser
+```
+
+**6.** Host Server
+
+```shell
+$ python manage.py runserver
+```
+
+**7.** Browse IP adress in browser
+
+http://127.0.0.1:8000/admin [login]
+
+http://127.0.0.1:8000/ [index]
+
+http://127.0.0.1:8000/add [entries]
+
 
 ## How it works:
  
