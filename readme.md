@@ -131,7 +131,8 @@ $ Tessa.py
 </table>
 
 <p align="center">
-<img src="https://tenor.com/view/diary-dear-diary-writing-gif-10913390"/>
+ <img width="400px" src="assets/women diary.gif"/>
+</p>
 
 <br/><br/>
 🌟 Star this repository if you find it useful.
