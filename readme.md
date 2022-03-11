@@ -130,6 +130,9 @@ $ Tessa.py
  </tr>
 </table>
 
+<p align="center">
+<img src="https://tenor.com/view/diary-dear-diary-writing-gif-10913390"/>
+
 <br/><br/>
 🌟 Star this repository if you find it useful.
 </p>
