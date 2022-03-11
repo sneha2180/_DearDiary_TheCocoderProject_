@@ -132,8 +132,6 @@ $ Tessa.py
 
 <p align="center">
  <img width="400px" src="assets/women diary.gif"/>
-</p>
-
 <br/><br/>
 🌟 Star this repository if you find it useful.
 </p>
